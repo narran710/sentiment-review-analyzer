@@ -1,0 +1,9 @@
+torch
+transformers==4.32.0
+datasets
+fastapi
+uvicorn
+streamlit
+scikit-learn
+numpy
+pandas
