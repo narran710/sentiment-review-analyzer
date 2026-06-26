@@ -12,7 +12,3 @@ Supports training, evaluation, and real-time inference.
 - Simple inference script for predictions
 - Clean modular project structure
 
----
-
-## 📂 Project Structure
-
